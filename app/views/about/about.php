@@ -1,1 +1,0 @@
-<h1><?php echo $vars['about']?></h1>
